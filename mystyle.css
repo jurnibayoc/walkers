@@ -88,7 +88,7 @@ body {
   border-radius: 50%;
   animation-name: fake;
   position: relative;
-  animation: fake 6s 2;
+  animation: fake 7s 2;
   animation-iteration-count: infinite;
   animation-fill-mode: forwards;
   animation-direction: alternate;
@@ -112,7 +112,7 @@ body {
   width: 115px;
   background-color: white;
   border-radius: 50%;
-  animation: fake3 6s 2;
+  animation: fake3 7s 2;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
@@ -135,7 +135,7 @@ body {
   width: 45px;
   background-color: white;
   border-radius: 50%;
-  animation: fake5 6s 2;
+  animation: fake5 7s 2;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
